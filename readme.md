@@ -1,9 +1,9 @@
 Wagtail demo project
 =======================
 
-This is a demonstration project for the amazing [Wagtail CMS](https://github.com/wagtail/wagtail).
+This is a demonstration project for the amazing Chrsitopher Learnings [Wagtail CMS](https://github.com/wagtail/wagtail).
 
-The demo site is designed to provide examples of common features and recipes to introduce you to Wagtail development. Beyond the code, it will also let you explore the admin / editorial interface of the CMS.
+The demo site is designed for Christo to provide examples of common features and recipes to introduce you to Wagtail development. Beyond the code, it will also let you explore the admin / editorial interface of the CMS.
 
 Note we do _not_ recommend using this project to start your own site - the demo is intended to be a springboard to get you started. Feel free to copy code from the demo into your own project.
 
@@ -41,6 +41,9 @@ virtualenv and traditional Django app setup instructions should skip to [Setup w
 
 Setup with Vagrant
 ------------------
+
+#### Welcome Chris
+
 
 #### Dependencies
 * [Vagrant](https://www.vagrantup.com/)
