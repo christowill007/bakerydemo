@@ -2,6 +2,7 @@ Wagtail demo project
 =======================
 Avinash teaching conflict resolution.
 
+Chris Learning Conflict resolution
 This is a demonstration project for the amazing Chrsitopher Learnings [Wagtail CMS](https://github.com/wagtail/wagtail).
 
 The demo site is designed for Christo to provide examples of common features and recipes to introduce you to Wagtail development. Beyond the code, it will also let you explore the admin / editorial interface of the CMS.
