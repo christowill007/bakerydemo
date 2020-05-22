@@ -1,5 +1,6 @@
 Wagtail demo project
 =======================
+Avinash teaching conflict resolution.
 
 This is a demonstration project for the amazing Chrsitopher Learnings [Wagtail CMS](https://github.com/wagtail/wagtail).
 
