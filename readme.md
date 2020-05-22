@@ -8,7 +8,10 @@ The demo site is designed to provide examples of common features and recipes to 
 Note we do _not_ recommend using this project to start your own site - the demo is intended to be a springboard to get you started. Feel free to copy code from the demo into your own project.
 
 ### Wagtail Features Demonstrated in This Demo
-
+#######
+######
+Changes in master
+###
 This demo is aimed primarily at developers wanting to learn more about the internals of Wagtail, and assumes you'll be reading its source code. After browsing the features, pay special attention to code we've used for:
 
 -   Dividing a project up into multiple apps
